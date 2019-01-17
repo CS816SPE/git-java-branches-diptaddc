@@ -22,7 +22,7 @@ public class cal
 			//
 			break;
 			case 3:
-			//
+			result = x * y; //Added by Multiply
 			break;
 			case 4:
 			//
