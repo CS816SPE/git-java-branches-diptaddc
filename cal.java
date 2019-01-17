@@ -19,7 +19,7 @@ public class cal
 			result = x + y;
 			break;
 			case 2:
-			//
+			result = x - y; //Added By Subtract 
 			break;
 			case 3:
 			//
