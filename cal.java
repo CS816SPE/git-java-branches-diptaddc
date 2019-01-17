@@ -25,7 +25,7 @@ public class cal
 			result = x * y; //Added by Multiply
 			break;
 			case 4:
-			//
+			result = x / y //Added by Divide
 			break;
 			default:
 			System.out.println("Invalid Choice");	
